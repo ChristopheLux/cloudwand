@@ -1,0 +1,9 @@
+[submodule "blog.cloudswizards.com/themes/simple-dark"]
+	path = blog.cloudswizards.com/themes/simple-dark
+	url = https://github.com/MichaelSchaecher/simple-dark.git
+[submodule "cloudswizards/themes/simple-dark"]
+	path = cloudswizards/themes/simple-dark
+	url = https://github.com/MichaelSchaecher/simple-dark.git
+[submodule "cloudswizards/themes/PaperMod"]
+	path = cloudswizards/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
